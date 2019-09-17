@@ -1,0 +1,71 @@
+body
+
+{
+
+
+    background-position: center;
+
+    background-repeat: no-repeat;
+
+    color:hotpink;
+font-family: cursive;
+
+font-size: 20px;
+    
+
+}
+
+
+
+h1
+
+{
+
+ 
+
+    width: 100%;
+
+    top: 0px;
+
+    left: 0px;
+
+    padding: 0px;
+
+    margin: 10px;
+
+    background-color: skyblue;
+
+
+
+
+
+}
+
+
+
+div.style
+
+{
+
+    
+
+    background-color: navy;
+
+    padding: 10px;
+
+    padding-bottom: 40px;
+
+     margin: 0px;
+
+    padding-top: 1px;
+
+    width:1000px;
+
+    height: 400px;
+
+    
+
+    overflow: hidden;
+
+    transition: height, width;
+
